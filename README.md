@@ -75,6 +75,8 @@ for epoch in range(epochs):
 ```
 
 ## Output
+## DATA SET
+<img width="769" height="684" alt="image" src="https://github.com/user-attachments/assets/2a914746-1555-4c55-9487-184436e53a60" />
 
 ### True Stock Price, Predicted Stock Price vs time
 
@@ -83,7 +85,7 @@ for epoch in range(epochs):
 
 ### Predictions 
 
-<img width="304" height="68" alt="image" src="https://github.com/user-attachments/assets/93960af4-8dca-4e14-b78b-f67f55696715" />
+<img width="278" height="91" alt="image" src="https://github.com/user-attachments/assets/5eac0c99-44c2-4227-9491-640add9aac35" />
 
 
 ## Result
